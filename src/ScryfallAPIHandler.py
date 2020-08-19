@@ -273,7 +273,7 @@ def ThrowError(status_code):
 
 #request = 'https://api.scryfall.com/cards/search?order=set&q=set%3Athb+r%3DCommon'
 
-#cards = GetAllCardsInSet('thb')
+cards = GetAllCardsInSet('thb')
 
 #cards = GetAllCardsInArena()
 
